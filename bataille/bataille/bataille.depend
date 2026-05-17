@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1776614598 source:c:\users\asus\desktop\bataille\pile.c.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h.h"
+	"file.h.h"
+
+1776613727 c:\users\asus\desktop\bataille\pile.h.h
+	"carte.h.h"
+	"file.h.h"
+
+1776610582 c:\users\asus\desktop\bataille\carte.h.h
+
+1776638120 c:\users\asus\desktop\bataille\file.h.h
+	"carte.h.h"
+
+1776613846 source:c:\users\asus\desktop\bataille\file.c.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h.h"
+	"liste.h.h"
+
+1776612285 c:\users\asus\desktop\bataille\liste.h.h
+	"carte.h.h"
+
+1776614296 source:c:\users\asus\desktop\bataille\liste.c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"liste.h.h"
+
+1776614061 source:c:\users\asus\desktop\bataille\main.c.c
+	<stdio.h>
+	<stdlib.h>
+	"carte.h.h"
+	"liste.h.h"
+	"file.h.h"
+	"pile.h.h"
+	"jeu.h.h"
+
+1776616291 c:\users\asus\desktop\bataille\jeu.h.h
+	"carte.h.h"
+	"file.h.h"
+	"pile.h.h"
+
+1776616301 source:c:\users\asus\desktop\bataille\jeu.c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jeu.h.h"
+	"liste.h.h"
+	<windows.h>
+
